@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApisRestfullHotelApplication<apisRestfull_hotel>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.apisRestfull.apisRestfull_hotel.ApisRestfullHotelApplication",
+            "projectName": "apisRestfull_hotel",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
